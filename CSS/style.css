@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Background*/
+html, body, .cover{
+    height: 100%;
+}
+
+.cover
+{
+    background: rgb(41, 41, 41);
+}
+/*Background*/
