@@ -1,15 +1,31 @@
+/*General*/
 *{
     margin: 0px;
     padding: 0px;
 }
-
+/*General*/
 /*Background*/
+
 html, body, .cover{
     height: 100%;
 }
 
 .cover
 {
-    background: rgb(41, 41, 41);
+    background: url("Assets/stickerBomb.jpg");
 }
 /*Background*/
+/*Header*/
+section.header{
+    background: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+/*Header*/
+.logo{
+    background-color: whitesmoke;
+    padding-left: 20px;
+}
